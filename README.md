@@ -52,34 +52,4 @@ A Mac utility that automatically downloads macOS Firmwares / Installers:
 
 ## Download
 
-Grab the latest version of **Mist** from the [releases page](https://github.com/ninxsoft/Mist/releases).
-
-## Credits / Thank You
-
-- Project created and maintained by Nindi Gill ([ninxsoft](https://github.com/ninxsoft)).
-- JP Simard ([jpsim](https://github.com/jpsim)) for [Yams](https://github.com/jpsim/Yams), used to export lists as YAML.
-- Josh Kaplan ([jakaplan](https://github.com/jakaplan)) for [Blessed](https://github.com/trilemma-dev/Blessed) and [SecureXPC](https://github.com/trilemma-dev/SecureXPC), which are used to support the Privileged Helper Tool.
-- The Sparkle Project ([sparkle-project](https://github.com/sparkle-project)) for [Sparkle](https://github.com/sparkle-project/Sparkle), used to auto update Mist.
-- Callum Jones ([cj123](https://github.com/cj123)) for [IPSW Downloads API](https://ipswdownloads.docs.apiary.io), used to determine macOS Firmware metadata.
-
-## License
-
-> Copyright © 2023 Nindi Gill
->
-> Permission is hereby granted, free of charge, to any person obtaining a copy
-> of this software and associated documentation files (the "Software"), to deal
-> in the Software without restriction, including without limitation the rights
-> to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-> copies of the Software, and to permit persons to whom the Software is
-> furnished to do so, subject to the following conditions:
->
-> The above copyright notice and this permission notice shall be included in all
-> copies or substantial portions of the Software.
->
-> THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-> IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-> FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-> AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-> LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-> OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-> SOFTWARE.
+Grab the latest version of **Mist** from the release page
